@@ -7,22 +7,30 @@ using namespace std;
 #define Y second
 #define sz(A) A.size()
 
+typedef long long ll;
 typedef pair<int, int> ii;
 typedef vector<int> vi;
-typedef vector<ii> vii;
-typedef long long ll;
 
-const int maxn = 1e5 + 2, INF = 2e9;
-const ll VINF = LONG_LONG_MAX - 2;
-int n, m;
+const int maxn = 5005;
+int c, f, t;
+vector<vi> adj(maxn);
 
-void input();
+void input()
+{
+    cin >> c >> t >> f;
+    int u, v;
+    for (int i = 0; i < f; i++)
+    {
+        cin >> u >> v;
+        adj[u].pb(v);
+    }
+}
 
 int main()
 {
 #ifndef ONLINE_JUDGE
-    freopen("mecung.inp", "r", stdin);
-    freopen("mecung.out", "w", stdout);
+    freopen("fwater.inp", "r", stdin);
+    freopen("fwater.out", "w", stdout);
 #endif
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
