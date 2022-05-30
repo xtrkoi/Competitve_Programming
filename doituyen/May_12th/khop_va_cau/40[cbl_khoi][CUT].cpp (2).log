@@ -1,0 +1,256 @@
+ ﻿cbl_khoi‣CUT: 27.50
+CUT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "CUT.cpp" -pipe -O2 -s -static -lm -x c++ -o"CUT.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom59974\
+Dịch thành công.
+
+cbl_khoi‣CUT‣Test01: 2.50
+Thời gian ≈ 0.042304200 giây
+Checking the first line: 
+  . Answer: 0 x Bridges + 1 x Articulation nodes
+  . Output: 0 x Bridges + 1 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test02: 2.50
+Thời gian ≈ 0.042900900 giây
+Checking the first line: 
+  . Answer: 0 x Bridges + 0 x Articulation nodes
+  . Output: 0 x Bridges + 0 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test03: 2.50
+Thời gian ≈ 0.041542800 giây
+Checking the first line: 
+  . Answer: 7 x Bridges + 8 x Articulation nodes
+  . Output: 7 x Bridges + 8 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test04: 2.50
+Thời gian ≈ 0.041409400 giây
+Checking the first line: 
+  . Answer: 99 x Bridges + 49 x Articulation nodes
+  . Output: 99 x Bridges + 49 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test05: 0.00
+Thời gian ≈ 0.050576000 giây
+Checking the first line: 
+  . Answer: 1693 x Bridges + 1343 x Articulation nodes
+  . Output: 1069 x Bridges + 1343 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test06: 0.00
+Thời gian ≈ 0.093205800 giây
+Checking the first line: 
+  . Answer: 40956 x Bridges + 26734 x Articulation nodes
+  . Output: 40458 x Bridges + 26734 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test07: 0.00
+Thời gian ≈ 0.105002000 giây
+Checking the first line: 
+  . Answer: 52942 x Bridges + 33449 x Articulation nodes
+  . Output: 52533 x Bridges + 33449 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test08: 2.50
+Thời gian ≈ 0.123976900 giây
+Checking the first line: 
+  . Answer: 99979 x Bridges + 50078 x Articulation nodes
+  . Output: 99979 x Bridges + 50078 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test09: 2.50
+Thời gian ≈ 0.118216300 giây
+Checking the first line: 
+  . Answer: 99969 x Bridges + 49941 x Articulation nodes
+  . Output: 99969 x Bridges + 49941 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test10: 0.00
+Thời gian ≈ 0.153747400 giây
+Checking the first line: 
+  . Answer: 37581 x Bridges + 28912 x Articulation nodes
+  . Output: 22734 x Bridges + 28912 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test11: 0.00
+Thời gian ≈ 0.046376300 giây
+Checking the first line: 
+  . Answer: 188 x Bridges + 161 x Articulation nodes
+  . Output: 47 x Bridges + 161 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test12: 0.00
+Thời gian ≈ 0.045239500 giây
+Checking the first line: 
+  . Answer: 541 x Bridges + 369 x Articulation nodes
+  . Output: 528 x Bridges + 369 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test13: 0.00
+Thời gian ≈ 0.045222200 giây
+Checking the first line: 
+  . Answer: 287 x Bridges + 185 x Articulation nodes
+  . Output: 280 x Bridges + 185 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test14: 0.00
+Thời gian ≈ 0.048599500 giây
+Checking the first line: 
+  . Answer: 5 x Bridges + 5 x Articulation nodes
+  . Output: 0 x Bridges + 5 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test15: 0.00
+Thời gian ≈ 0.044916700 giây
+Checking the first line: 
+  . Answer: 361 x Bridges + 259 x Articulation nodes
+  . Output: 297 x Bridges + 259 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test16: 0.00
+Thời gian ≈ 0.047072800 giây
+Checking the first line: 
+  . Answer: 306 x Bridges + 254 x Articulation nodes
+  . Output: 145 x Bridges + 254 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test17: 0.00
+Thời gian ≈ 0.059061800 giây
+Checking the first line: 
+  . Answer: 4 x Bridges + 4 x Articulation nodes
+  . Output: 0 x Bridges + 4 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test18: 0.00
+Thời gian ≈ 0.044102000 giây
+Checking the first line: 
+  . Answer: 252 x Bridges + 161 x Articulation nodes
+  . Output: 250 x Bridges + 161 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test19: 0.00
+Thời gian ≈ 0.041981800 giây
+Checking the first line: 
+  . Answer: 266 x Bridges + 186 x Articulation nodes
+  . Output: 240 x Bridges + 186 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test20: 0.00
+Thời gian ≈ 0.041223400 giây
+Checking the first line: 
+  . Answer: 151 x Bridges + 112 x Articulation nodes
+  . Output: 127 x Bridges + 112 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test21: 0.00
+Thời gian ≈ 0.040903900 giây
+Checking the first line: 
+  . Answer: 19 x Bridges + 18 x Articulation nodes
+  . Output: 16 x Bridges + 18 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test22: 0.00
+Thời gian ≈ 0.044132500 giây
+Checking the first line: 
+  . Answer: 22 x Bridges + 21 x Articulation nodes
+  . Output: 19 x Bridges + 21 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test23: 2.50
+Thời gian ≈ 0.041480900 giây
+Checking the first line: 
+  . Answer: 241 x Bridges + 145 x Articulation nodes
+  . Output: 241 x Bridges + 145 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test24: 2.50
+Thời gian ≈ 0.044851200 giây
+Checking the first line: 
+  . Answer: 386 x Bridges + 195 x Articulation nodes
+  . Output: 386 x Bridges + 195 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test25: 0.00
+Thời gian ≈ 0.045025300 giây
+Checking the first line: 
+  . Answer: 11 x Bridges + 11 x Articulation nodes
+  . Output: 8 x Bridges + 11 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test26: 2.50
+Thời gian ≈ 0.042449000 giây
+Checking the first line: 
+  . Answer: 34 x Bridges + 1 x Articulation nodes
+  . Output: 34 x Bridges + 1 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test27: 2.50
+Thời gian ≈ 0.047085400 giây
+Checking the first line: 
+  . Answer: 351 x Bridges + 185 x Articulation nodes
+  . Output: 351 x Bridges + 185 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test28: 2.50
+Thời gian ≈ 0.042265700 giây
+Checking the first line: 
+  . Answer: 243 x Bridges + 143 x Articulation nodes
+  . Output: 243 x Bridges + 143 x Articulation nodes
+Checking the list of cut edges/vertices
+Correct!
+cbl_khoi‣CUT‣Test29: 0.00
+Thời gian ≈ 0.041699400 giây
+Checking the first line: 
+  . Answer: 1 x Bridges + 1 x Articulation nodes
+  . Output: 0 x Bridges + 1 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test30: 0.00
+Thời gian ≈ 0.040701900 giây
+Checking the first line: 
+  . Answer: 11 x Bridges + 11 x Articulation nodes
+  . Output: 9 x Bridges + 11 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test31: 0.00
+Thời gian ≈ 0.101837900 giây
+Checking the first line: 
+  . Answer: 17482 x Bridges + 13572 x Articulation nodes
+  . Output: 13543 x Bridges + 13572 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test32: 0.00
+Thời gian ≈ 0.090682700 giây
+Checking the first line: 
+  . Answer: 8452 x Bridges + 6794 x Articulation nodes
+  . Output: 3 x Bridges + 6794 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test33: 0.00
+Thời gian ≈ 0.148176800 giây
+Checking the first line: 
+  . Answer: 34798 x Bridges + 27614 x Articulation nodes
+  . Output: 21695 x Bridges + 27614 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test34: 0.00
+Thời gian ≈ 0.088783000 giây
+Checking the first line: 
+  . Answer: 12734 x Bridges + 9929 x Articulation nodes
+  . Output: 41 x Bridges + 9929 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test35: 0.00
+Thời gian ≈ 0.147747400 giây
+Checking the first line: 
+  . Answer: 32002 x Bridges + 24657 x Articulation nodes
+  . Output: 21815 x Bridges + 24657 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test36: 0.00
+Thời gian ≈ 0.106779100 giây
+Checking the first line: 
+  . Answer: 22834 x Bridges + 17428 x Articulation nodes
+  . Output: 14212 x Bridges + 17428 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test37: 0.00
+Thời gian ≈ 0.122132800 giây
+Checking the first line: 
+  . Answer: 53730 x Bridges + 36585 x Articulation nodes
+  . Output: 52585 x Bridges + 36585 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test38: 0.00
+Thời gian ≈ 0.122554000 giây
+Checking the first line: 
+  . Answer: 73331 x Bridges + 43367 x Articulation nodes
+  . Output: 73112 x Bridges + 43367 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test39: 0.00
+Thời gian ≈ 0.128559000 giây
+Checking the first line: 
+  . Answer: 33754 x Bridges + 25645 x Articulation nodes
+  . Output: 20529 x Bridges + 25645 x Articulation nodes
+Wrong!
+cbl_khoi‣CUT‣Test40: 0.00
+Thời gian ≈ 0.118577900 giây
+Checking the first line: 
+  . Answer: 38977 x Bridges + 28761 x Articulation nodes
+  . Output: 34648 x Bridges + 28761 x Articulation nodes
+Wrong!

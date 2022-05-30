@@ -1,0 +1,305 @@
+ ﻿cbl_khoi‣treasure: 2.00
+treasure.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "treasure.cpp" -pipe -O2 -s -static -lm -x c++ -o"treasure.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom52267\
+Dịch thành công.
+
+cbl_khoi‣treasure‣Test001: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom13518\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test002: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom14084\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test003: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom19881\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test004: 0.00
+Thời gian ≈ 0.015732316 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test005: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom26720\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test006: 1.00
+Thời gian ≈ 0.015947853 giây
+Kết quả khớp đáp án!
+cbl_khoi‣treasure‣Test007: 1.00
+Thời gian ≈ 0.016179718 giây
+Kết quả khớp đáp án!
+cbl_khoi‣treasure‣Test008: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom13305\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test009: 0.00
+Thời gian ≈ 0.017394095 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test010: 0.00
+Thời gian ≈ 0.015881606 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test011: 0.00
+Thời gian ≈ 0.017347909 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test012: 0.00
+Thời gian ≈ 0.015861079 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test013: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom16776\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test014: 0.00
+Thời gian ≈ 0.015521912 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test015: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom2815\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test016: 0.00
+Thời gian ≈ 0.017304522 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test017: 0.00
+Thời gian ≈ 0.016092011 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test018: 0.00
+Thời gian ≈ 0.015681931 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test019: 0.00
+Thời gian ≈ 0.015953918 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test020: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom3419\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test021: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom35633\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test022: 0.00
+Thời gian ≈ 0.018342550 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test023: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom18299\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test024: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52976\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test025: 0.00
+Thời gian ≈ 0.015954385 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test026: 0.00
+Thời gian ≈ 0.016652313 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test027: 0.00
+Thời gian ≈ 0.016303815 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test028: 0.00
+Thời gian ≈ 0.016245966 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test029: 0.00
+Thời gian ≈ 0.016142863 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test030: 0.00
+Thời gian ≈ 0.017499998 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test031: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom61426\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test032: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom35092\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test033: 0.00
+Thời gian ≈ 0.016122335 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test034: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom31524\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test035: 0.00
+Thời gian ≈ 0.016259029 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test036: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom41775\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test037: 0.00
+Thời gian ≈ 0.017080587 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test038: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom38974\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test039: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom17079\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test040: 0.00
+Thời gian ≈ 0.016078482 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test041: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom57673\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test042: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom31458\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test043: 0.00
+Thời gian ≈ 0.015715988 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test044: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom61173\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test045: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52060\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test046: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom30601\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test047: 0.00
+Thời gian ≈ 0.016593064 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test048: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom50132\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test049: 0.00
+Thời gian ≈ 0.017935736 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test050: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom25303\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test051: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom40489\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test052: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom41454\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test053: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom56054\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test054: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom26630\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test055: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom55107\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test056: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom20100\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test057: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom41586\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test058: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom11170\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test059: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom63347\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test060: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom1495\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test061: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom56460\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test062: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom36470\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test063: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52750\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test064: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom55738\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test065: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom54606\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test066: 0.00
+Thời gian ≈ 0.023909183 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣treasure‣Test067: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom15909\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test068: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom9838\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test069: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom47275\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test070: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom46528\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test071: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom59945\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test072: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom37290\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test073: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom36672\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test074: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom22318\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test075: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom43732\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test076: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom18426\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test077: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom41047\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test078: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom63852\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test079: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom54599\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test080: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom27722\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test081: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom23857\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test082: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom30626\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test083: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom38001\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test084: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom60866\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test085: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom14725\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test086: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom32810\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test087: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom55729\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test088: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom14293\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test089: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom5443\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test090: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom59731\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test091: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom43195\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test092: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom28820\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test093: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom7070\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test094: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom17994\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test095: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom49855\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test096: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom14664\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test097: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom15178\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test098: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom20565\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test099: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom62664\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣treasure‣Test100: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom9536\treasure.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

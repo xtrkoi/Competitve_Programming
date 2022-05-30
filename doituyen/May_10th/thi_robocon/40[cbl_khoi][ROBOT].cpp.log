@@ -1,0 +1,65 @@
+ ﻿cbl_khoi‣ROBOT: 25.00
+ROBOT.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "ROBOT.cpp" -pipe -O2 -s -static -lm -x c++ -o"ROBOT.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom60621\
+Dịch thành công.
+
+cbl_khoi‣ROBOT‣Test01: 0.00
+Thời gian ≈ 0.046720800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test02: 5.00
+Thời gian ≈ 0.041242300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣ROBOT‣Test03: 0.00
+Thời gian ≈ 0.046192000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test04: 5.00
+Thời gian ≈ 0.041215300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣ROBOT‣Test05: 0.00
+Thời gian ≈ 0.046160000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test06: 0.00
+Thời gian ≈ 0.041906300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test07: 5.00
+Thời gian ≈ 0.042578000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣ROBOT‣Test08: 0.00
+Thời gian ≈ 0.041392300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test09: 0.00
+Thời gian ≈ 0.045839600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test10: 5.00
+Thời gian ≈ 0.040716000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣ROBOT‣Test11: 0.00
+Thời gian ≈ 0.046472300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test12: 0.00
+Thời gian ≈ 0.047286200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test13: 0.00
+Thời gian ≈ 0.040125800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test14: 0.00
+Thời gian ≈ 0.042182600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test15: 0.00
+Thời gian ≈ 0.047537800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test16: 5.00
+Thời gian ≈ 0.042015200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣ROBOT‣Test17: 0.00
+Thời gian ≈ 0.044664500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test18: 0.00
+Thời gian ≈ 0.045122600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test19: 0.00
+Thời gian ≈ 0.041078200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣ROBOT‣Test20: 0.00
+Thời gian ≈ 0.041703200 giây
+Kết quả KHÁC đáp án!

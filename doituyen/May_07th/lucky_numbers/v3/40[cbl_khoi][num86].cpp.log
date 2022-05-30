@@ -1,0 +1,158 @@
+ ﻿cbl_khoi‣num86: 0.00
+num86.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "num86.cpp" -pipe -O2 -s -static -lm -x c++ -o"num86.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom8159\
+Dịch thành công.
+
+cbl_khoi‣num86‣test00: 0.00
+Thời gian ≈ 0.039741700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test01: 0.00
+Thời gian ≈ 0.039877600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test02: 0.00
+Thời gian ≈ 0.043393400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test03: 0.00
+Thời gian ≈ 0.040516500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test04: 0.00
+Thời gian ≈ 0.039719100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test05: 0.00
+Thời gian ≈ 0.040186400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test06: 0.00
+Thời gian ≈ 0.042273400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test07: 0.00
+Thời gian ≈ 0.043625800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test08: 0.00
+Thời gian ≈ 0.041760300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test09: 0.00
+Thời gian ≈ 0.040927800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test10: 0.00
+Thời gian ≈ 0.044662500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test11: 0.00
+Thời gian ≈ 0.039057200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test12: 0.00
+Thời gian ≈ 0.039863200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test13: 0.00
+Thời gian ≈ 0.043251800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test14: 0.00
+Thời gian ≈ 0.039575400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test15: 0.00
+Thời gian ≈ 0.040835100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test16: 0.00
+Thời gian ≈ 0.041264700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test17: 0.00
+Thời gian ≈ 0.041185100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test18: 0.00
+Thời gian ≈ 0.038200100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test19: 0.00
+Thời gian ≈ 0.041259700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test20: 0.00
+Thời gian ≈ 0.040502600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test21: 0.00
+Thời gian ≈ 0.040313900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test22: 0.00
+Thời gian ≈ 0.044660100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test23: 0.00
+Thời gian ≈ 0.040024800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test24: 0.00
+Thời gian ≈ 0.041272200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test25: 0.00
+Thời gian ≈ 0.041129500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test26: 0.00
+Thời gian ≈ 0.041821200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test27: 0.00
+Thời gian ≈ 0.040318900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test28: 0.00
+Thời gian ≈ 0.046579300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test29: 0.00
+Thời gian ≈ 0.043893900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test30: 0.00
+Thời gian ≈ 0.040505700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test31: 0.00
+Thời gian ≈ 0.041771500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test32: 0.00
+Thời gian ≈ 0.040272900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test33: 0.00
+Thời gian ≈ 0.043514400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test34: 0.00
+Thời gian ≈ 0.042130400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test35: 0.00
+Thời gian ≈ 0.041235900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test36: 0.00
+Thời gian ≈ 0.041117400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test37: 0.00
+Thời gian ≈ 0.043480700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test38: 0.00
+Thời gian ≈ 0.040062000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test39: 0.00
+Thời gian ≈ 0.040501400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test40: 0.00
+Thời gian ≈ 0.044499000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test41: 0.00
+Thời gian ≈ 0.043330700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test42: 0.00
+Thời gian ≈ 0.043475900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test43: 0.00
+Thời gian ≈ 0.044694600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test44: 0.00
+Thời gian ≈ 0.047638100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test45: 0.00
+Thời gian ≈ 0.040492000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test46: 0.00
+Thời gian ≈ 0.042156500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test47: 0.00
+Thời gian ≈ 0.040716100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test48: 0.00
+Thời gian ≈ 0.041730300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test49: 0.00
+Thời gian ≈ 0.041442200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣num86‣test50: 0.00
+Thời gian ≈ 0.040506800 giây
+Kết quả KHÁC đáp án!

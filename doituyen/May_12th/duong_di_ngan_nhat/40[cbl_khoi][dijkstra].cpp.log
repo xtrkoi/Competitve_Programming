@@ -1,0 +1,155 @@
+ ﻿cbl_khoi‣dijkstra: 50.00
+dijkstra.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "dijkstra.cpp" -pipe -O2 -s -static -lm -x c++ -o"dijkstra.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom22173\
+Dịch thành công.
+
+cbl_khoi‣dijkstra‣$DIJKSTRA01: 2.00
+Thời gian ≈ 0.041030200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA02: 2.00
+Thời gian ≈ 0.040566300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA03: 2.00
+Thời gian ≈ 0.042153800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA04: 2.00
+Thời gian ≈ 0.051918500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA05: 2.00
+Thời gian ≈ 0.040626600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA06: 2.00
+Thời gian ≈ 0.041639500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA07: 2.00
+Thời gian ≈ 0.041954400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA08: 2.00
+Thời gian ≈ 0.043043000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA09: 2.00
+Thời gian ≈ 0.041470700 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA10: 2.00
+Thời gian ≈ 0.041406200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA11: 2.00
+Thời gian ≈ 0.042667500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA12: 2.00
+Thời gian ≈ 0.040636600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA13: 2.00
+Thời gian ≈ 0.040381100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA14: 2.00
+Thời gian ≈ 0.040975200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA15: 2.00
+Thời gian ≈ 0.049955900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA16: 2.00
+Thời gian ≈ 0.091365300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA17: 2.00
+Thời gian ≈ 0.062782000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA18: 2.00
+Thời gian ≈ 0.058472800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA19: 2.00
+Thời gian ≈ 0.101499500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA20: 2.00
+Thời gian ≈ 0.112092100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA21: 2.00
+Thời gian ≈ 0.090030900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA22: 2.00
+Thời gian ≈ 0.091747200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA23: 2.00
+Thời gian ≈ 0.072357500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA24: 2.00
+Thời gian ≈ 0.054513100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA25: 2.00
+Thời gian ≈ 0.110289200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA26: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom60233\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA27: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom46823\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA28: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom28485\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA29: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom21253\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA30: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom64154\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA31: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom53399\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA32: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom13455\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA33: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom3788\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA34: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom8396\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA35: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom20140\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA36: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom55598\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA37: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom30802\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA38: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom28288\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA39: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom20421\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA40: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom3240\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA41: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom59374\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA42: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom35619\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA43: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom40266\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA44: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom16580\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA45: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom63290\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA46: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom20988\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA47: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52782\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA48: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom21324\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA49: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom19957\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣dijkstra‣$DIJKSTRA50: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom3460\dijkstra.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)

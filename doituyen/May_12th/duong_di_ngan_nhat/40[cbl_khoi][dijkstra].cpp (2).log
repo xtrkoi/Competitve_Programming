@@ -1,0 +1,155 @@
+ ﻿cbl_khoi‣dijkstra: 100.00
+dijkstra.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "dijkstra.cpp" -pipe -O2 -s -static -lm -x c++ -o"dijkstra.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom4301\
+Dịch thành công.
+
+cbl_khoi‣dijkstra‣$DIJKSTRA01: 2.00
+Thời gian ≈ 0.043432500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA02: 2.00
+Thời gian ≈ 0.044615500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA03: 2.00
+Thời gian ≈ 0.043533100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA04: 2.00
+Thời gian ≈ 0.044341400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA05: 2.00
+Thời gian ≈ 0.044511300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA06: 2.00
+Thời gian ≈ 0.043802500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA07: 2.00
+Thời gian ≈ 0.046067200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA08: 2.00
+Thời gian ≈ 0.044034600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA09: 2.00
+Thời gian ≈ 0.043958800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA10: 2.00
+Thời gian ≈ 0.044569600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA11: 2.00
+Thời gian ≈ 0.045766800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA12: 2.00
+Thời gian ≈ 0.044196400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA13: 2.00
+Thời gian ≈ 0.044895900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA14: 2.00
+Thời gian ≈ 0.044577500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA15: 2.00
+Thời gian ≈ 0.052411900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA16: 2.00
+Thời gian ≈ 0.092733500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA17: 2.00
+Thời gian ≈ 0.070199300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA18: 2.00
+Thời gian ≈ 0.059816400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA19: 2.00
+Thời gian ≈ 0.097345200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA20: 2.00
+Thời gian ≈ 0.103411300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA21: 2.00
+Thời gian ≈ 0.090988000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA22: 2.00
+Thời gian ≈ 0.088061200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA23: 2.00
+Thời gian ≈ 0.075380400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA24: 2.00
+Thời gian ≈ 0.055405400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA25: 2.00
+Thời gian ≈ 0.104266800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA26: 2.00
+Thời gian ≈ 0.120259200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA27: 2.00
+Thời gian ≈ 0.073066000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA28: 2.00
+Thời gian ≈ 0.093005200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA29: 2.00
+Thời gian ≈ 0.061935400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA30: 2.00
+Thời gian ≈ 0.203724100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA31: 2.00
+Thời gian ≈ 0.115752500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA32: 2.00
+Thời gian ≈ 0.159886500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA33: 2.00
+Thời gian ≈ 0.081820800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA34: 2.00
+Thời gian ≈ 0.080646500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA35: 2.00
+Thời gian ≈ 0.158840000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA36: 2.00
+Thời gian ≈ 0.096017900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA37: 2.00
+Thời gian ≈ 0.130347100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA38: 2.00
+Thời gian ≈ 0.100020500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA39: 2.00
+Thời gian ≈ 0.105915500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA40: 2.00
+Thời gian ≈ 0.100206400 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA41: 2.00
+Thời gian ≈ 0.088744600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA42: 2.00
+Thời gian ≈ 0.094617500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA43: 2.00
+Thời gian ≈ 0.123404700 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA44: 2.00
+Thời gian ≈ 0.137371700 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA45: 2.00
+Thời gian ≈ 0.133347000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA46: 2.00
+Thời gian ≈ 0.111467600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA47: 2.00
+Thời gian ≈ 0.092340600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA48: 2.00
+Thời gian ≈ 0.107666100 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA49: 2.00
+Thời gian ≈ 0.130607500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣dijkstra‣$DIJKSTRA50: 2.00
+Thời gian ≈ 0.082422100 giây
+Kết quả khớp đáp án!

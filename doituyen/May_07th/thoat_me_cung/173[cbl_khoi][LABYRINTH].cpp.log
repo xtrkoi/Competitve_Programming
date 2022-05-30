@@ -1,0 +1,125 @@
+ ﻿cbl_khoi‣LABYRINTH: 87.50
+LABYRINTH.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "LABYRINTH.cpp" -pipe -O2 -s -static -lm -x c++ -o"LABYRINTH.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom22132\
+Dịch thành công.
+
+cbl_khoi‣LABYRINTH‣Test01: 2.50
+Thời gian ≈ 0.017501864 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test02: 0.00
+Thời gian ≈ 0.017882086 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣LABYRINTH‣Test03: 2.50
+Thời gian ≈ 0.016878580 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test04: 0.00
+Thời gian ≈ 0.016212376 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣LABYRINTH‣Test05: 2.50
+Thời gian ≈ 0.017504663 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test06: 2.50
+Thời gian ≈ 0.018412063 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test07: 0.00
+Thời gian ≈ 0.016700366 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣LABYRINTH‣Test08: 2.50
+Thời gian ≈ 0.017325982 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test09: 2.50
+Thời gian ≈ 0.017328315 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test10: 0.00
+Thời gian ≈ 0.018235249 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣LABYRINTH‣Test11: 2.50
+Thời gian ≈ 0.017241540 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test12: 2.50
+Thời gian ≈ 0.016218440 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test13: 2.50
+Thời gian ≈ 0.017750991 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test14: 2.50
+Thời gian ≈ 0.015332500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test15: 2.50
+Thời gian ≈ 0.016117203 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test16: 0.00
+Thời gian ≈ 0.016879513 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣LABYRINTH‣Test17: 2.50
+Thời gian ≈ 0.017740260 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test18: 2.50
+Thời gian ≈ 0.016052356 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test19: 2.50
+Thời gian ≈ 0.017180891 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test20: 2.50
+Thời gian ≈ 0.017637624 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test21: 2.50
+Thời gian ≈ 0.017783181 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test22: 2.50
+Thời gian ≈ 0.020288913 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test23: 2.50
+Thời gian ≈ 0.017208417 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test24: 2.50
+Thời gian ≈ 0.016293552 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test25: 2.50
+Thời gian ≈ 0.028889389 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test26: 2.50
+Thời gian ≈ 0.017611032 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test27: 2.50
+Thời gian ≈ 0.028631398 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test28: 2.50
+Thời gian ≈ 0.020635078 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test29: 2.50
+Thời gian ≈ 0.022465274 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test30: 2.50
+Thời gian ≈ 0.016972353 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test31: 2.50
+Thời gian ≈ 0.015237795 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test32: 2.50
+Thời gian ≈ 0.016455904 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test33: 2.50
+Thời gian ≈ 0.017913343 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test34: 2.50
+Thời gian ≈ 0.018519365 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test35: 2.50
+Thời gian ≈ 0.020131225 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test36: 2.50
+Thời gian ≈ 0.020520778 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test37: 2.50
+Thời gian ≈ 0.025036319 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test38: 2.50
+Thời gian ≈ 0.025643275 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test39: 2.50
+Thời gian ≈ 0.027857425 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYRINTH‣Test40: 2.50
+Thời gian ≈ 0.030620681 giây
+Kết quả khớp đáp án!

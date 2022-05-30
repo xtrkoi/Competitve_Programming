@@ -1,0 +1,35 @@
+ ﻿cbl_khoi‣LABYR: 100.00
+LABYR.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "LABYR.cpp" -pipe -O2 -s -static -lm -x c++ -o"LABYR.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom46678\
+Dịch thành công.
+
+cbl_khoi‣LABYR‣Test01: 10.00
+Thời gian ≈ 0.058981800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test02: 10.00
+Thời gian ≈ 0.041416300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test03: 10.00
+Thời gian ≈ 0.040778000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test04: 10.00
+Thời gian ≈ 0.044961500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test05: 10.00
+Thời gian ≈ 0.044499700 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test06: 10.00
+Thời gian ≈ 0.040693300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test07: 10.00
+Thời gian ≈ 0.045759600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test08: 10.00
+Thời gian ≈ 0.039497600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test09: 10.00
+Thời gian ≈ 0.047204900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣LABYR‣Test10: 10.00
+Thời gian ≈ 0.039810000 giây
+Kết quả khớp đáp án!

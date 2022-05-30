@@ -1,0 +1,155 @@
+ ﻿cbl_khoi‣SAFENET: 2.50
+SAFENET.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "SAFENET.cpp" -pipe -O2 -s -static -lm -x c++ -o"SAFENET.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom19561\
+Dịch thành công.
+
+cbl_khoi‣SAFENET‣$SAFENET01: 0.00
+Thời gian ≈ 0.188023200 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET02: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom47339\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET03: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom29441\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET04: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom20704\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET05: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom31672\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET06: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom32937\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET07: 0.00
+Thời gian ≈ 0.045385600 giây
+Checking number of vertices...
+. Answer: 1
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET08: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52692\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET09: 2.50
+Thời gian ≈ 0.101745900 giây
+Checking number of vertices...
+. Answer: 28259
+. Output: 28259
+Correct!
+cbl_khoi‣SAFENET‣$SAFENET10: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom57391\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET11: 0.00
+Thời gian ≈ 0.042427300 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET12: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom50298\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET13: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom42970\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET14: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom24302\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET15: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom24694\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET16: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom64749\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET17: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom55075\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET18: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom63650\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET19: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom4279\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET20: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom48719\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET21: 0.00
+Thời gian ≈ 0.043681400 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET22: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom2718\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET23: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom21808\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET24: 0.00
+Thời gian ≈ 0.043628100 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET25: 0.00
+Thời gian ≈ 0.045261400 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET26: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52809\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET27: 0.00
+Thời gian ≈ 0.051519900 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET28: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom12086\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET29: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom34189\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET30: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom1257\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET31: 0.00
+Thời gian ≈ 0.050352600 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET32: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom34546\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET33: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom1993\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET34: 0.00
+Thời gian ≈ 0.050598300 giây
+Checking number of vertices...
+. Answer: 2
+. Output: 2
+Invalid index 0
+cbl_khoi‣SAFENET‣$SAFENET35: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom21237\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET36: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom62232\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET37: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom13561\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET38: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom14003\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET39: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom2225\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
+cbl_khoi‣SAFENET‣$SAFENET40: 0.00
+Chạy sinh lỗi
+Command: "D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\ContestRoom52692\SAFENET.exe" terminated with exit code: 3221225477 (Hexadecimal: C0000005)
