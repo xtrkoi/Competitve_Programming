@@ -12,30 +12,45 @@ typedef vector<int> vi;
 typedef vector<ii> vii;
 typedef long long ll;
 
-const int maxn = 1e5 + 2, INF = 2e9;
-const ll VINF = LONG_LONG_MAX - 2;
+const int maxn = 1e5 + 5, INF = INT_MAX;
 int n, m;
 vector<vii> adj(maxn);
-vector<bool> seen(maxn);
-vi d1(maxn), d2(maxn), res(maxn, INF);
+vi d1(maxn, INF), d2(maxn, INF), res(maxn);
+
+struct edge
+{
+    int u, v, c;
+    bool operator<(const edge &rhs)
+    {
+        return u < rhs.u || (u == rhs.u && v < rhs.v) || (u == rhs.u && v == rhs.v && c < rhs.c);
+    }
+};
+vector<edge> edge_list;
 
 void input()
 {
     cin >> n >> m;
-    int u, v, c;
+    edge tmp;
     for (int i = 0; i < m; i++)
     {
-        cin >> u >> v >> c;
-        adj[u].pb(mp(v, c));
-        adj[v].pb(mp(u, c));
+        cin >> tmp.u >> tmp.v >> tmp.c;
+        edge_list.pb(tmp);
     }
+    sort(edge_list.begin(), edge_list.end());
+    adj[edge_list[0].u].pb(mp(edge_list[0].v, edge_list[0].c));
+    adj[edge_list[0].v].pb(mp(edge_list[0].u, edge_list[0].c));
+    for (int i = 1; i < m; i++)
+        if (edge_list[i].u != edge_list[i - 1].u || edge_list[i].v != edge_list[i - 1].v)
+        {
+            adj[edge_list[i].u].pb(mp(edge_list[i].v, edge_list[i].c));
+            adj[edge_list[i].v].pb(mp(edge_list[i].u, edge_list[i].c));
+        }
 }
 
 void bfs(int st, vi &dis)
 {
     queue<int> q;
     q.push(st);
-    seen[st] = true;
     dis[st] = 0;
     while (!q.empty())
     {
@@ -43,14 +58,18 @@ void bfs(int st, vi &dis)
         q.pop();
         for (ii v : adj[u])
         {
-            if (!seen[v.X])
+            if (dis[v.X] > dis[u] + 1)
             {
-                seen[v.X] = true;
                 dis[v.X] = dis[u] + 1;
                 q.push(v.X);
             }
         }
     }
+}
+
+bool shortest(int a)
+{
+    return d1[a] + d2[a] == d1[n];
 }
 
 int main()
@@ -63,38 +82,29 @@ int main()
     cin.tie(NULL);
 
     input();
-
-    seen = vector<bool>(maxn, false);
     bfs(1, d1);
-
-    seen = vector<bool>(maxn, false);
     bfs(n, d2);
 
-    seen = vector<bool>(maxn, false);
-    vi s[2];
+    vector<vi> tmp(2);
     int i = 0;
-    s[i].pb(1);
-    seen[1] = true;
+    tmp[i].pb(1);
     for (int k = 1; k <= d1[n]; k++)
     {
         int mn = INF;
-        for (int u : s[i])
+        for (int u : tmp[i])
             for (ii v : adj[u])
-                if (!seen[v.X] && d1[v.X] + d2[v.X] == d1[n])
+                if (d1[v.X] == d1[u] + 1 && shortest(v.X))
                     mn = min(mn, v.Y);
-        for (int u : s[i])
+        res[k] = mn;
+        for (int u : tmp[i])
             for (ii v : adj[u])
-                if (!seen[v.X] && d1[v.X] + d2[v.X] == d1[n] && v.Y == mn)
-                {
-                    seen[v.X] = true;
-                    s[1 - i].pb(v.X);
-                    res[k] = v.Y;
-                }
-        s[i].clear();
+                if (d1[v.X] == d1[u] + 1 && shortest(v.X) && v.Y == mn)
+                    tmp[1 - i].pb(v.X);
+        tmp[i].clear();
         i = 1 - i;
     }
     cout << d1[n] << "\n";
-    for (int i = 1; i <= d1[n]; i++)
-        cout << res[i] << " ";
+    for (int j = 1; j <= d1[n]; j++)
+        cout << res[j] << " ";
     return 0;
 }
