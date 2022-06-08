@@ -29,8 +29,8 @@ void input()
 int main()
 {
 #ifndef ONLINE_JUDGE
-    freopen("fwater.inp", "r", stdin);
-    freopen("fwater.out", "w", stdout);
+    freopen("vostour.inp", "r", stdin);
+    freopen("vostour.out", "w", stdout);
 #endif
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);

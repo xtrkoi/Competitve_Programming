@@ -1,0 +1,125 @@
+ ﻿cbl_khoi‣convexhull: 7.50
+convexhull.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "convexhull.cpp" -pipe -O2 -s -static -lm -x c++ -o"convexhull.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom4934\
+Dịch thành công.
+
+cbl_khoi‣convexhull‣Test01: 0.00
+Thời gian ≈ 0.041400200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test02: 2.50
+Thời gian ≈ 0.041009800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣convexhull‣Test03: 0.00
+Thời gian ≈ 0.045815600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test04: 2.50
+Thời gian ≈ 0.040976800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣convexhull‣Test05: 2.50
+Thời gian ≈ 0.042015900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣convexhull‣Test06: 0.00
+Thời gian ≈ 0.045426800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test07: 0.00
+Thời gian ≈ 0.086506900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test08: 0.00
+Thời gian ≈ 0.069663600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test09: 0.00
+Thời gian ≈ 0.080902300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test10: 0.00
+Thời gian ≈ 0.097133500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test11: 0.00
+Thời gian ≈ 0.047365400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test12: 0.00
+Thời gian ≈ 0.040539700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test13: 0.00
+Thời gian ≈ 0.042167900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test14: 0.00
+Thời gian ≈ 0.045286500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test15: 0.00
+Thời gian ≈ 0.040887300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test16: 0.00
+Thời gian ≈ 0.042213200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test17: 0.00
+Thời gian ≈ 0.044588100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test18: 0.00
+Thời gian ≈ 0.041029000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test19: 0.00
+Thời gian ≈ 0.044093900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test20: 0.00
+Thời gian ≈ 0.041702500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test21: 0.00
+Thời gian ≈ 0.041697400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test22: 0.00
+Thời gian ≈ 0.041271000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test23: 0.00
+Thời gian ≈ 0.043916600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test24: 0.00
+Thời gian ≈ 0.044504300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test25: 0.00
+Thời gian ≈ 0.044447200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test26: 0.00
+Thời gian ≈ 0.082225300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test27: 0.00
+Thời gian ≈ 0.077193000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test28: 0.00
+Thời gian ≈ 0.095278600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test29: 0.00
+Thời gian ≈ 0.053222600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test30: 0.00
+Thời gian ≈ 0.101862200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test31: 0.00
+Thời gian ≈ 0.085778300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test32: 0.00
+Thời gian ≈ 0.080220800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test33: 0.00
+Thời gian ≈ 0.049679100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test34: 0.00
+Thời gian ≈ 0.072745200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test35: 0.00
+Thời gian ≈ 0.068300400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test36: 0.00
+Thời gian ≈ 0.064614900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test37: 0.00
+Thời gian ≈ 0.069909300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test38: 0.00
+Thời gian ≈ 0.054859100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test39: 0.00
+Thời gian ≈ 0.089439700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣convexhull‣Test40: 0.00
+Thời gian ≈ 0.061734300 giây
+Kết quả KHÁC đáp án!

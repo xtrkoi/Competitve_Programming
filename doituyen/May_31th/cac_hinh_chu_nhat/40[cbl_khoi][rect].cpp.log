@@ -1,0 +1,155 @@
+ ﻿cbl_khoi‣rect: 27.00
+rect.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "rect.cpp" -pipe -O2 -s -static -lm -x c++ -o"rect.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom33942\
+Dịch thành công.
+
+cbl_khoi‣rect‣Test01: 1.00
+Thời gian ≈ 0.042767300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test02: 0.00
+Thời gian ≈ 0.040439600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test03: 1.00
+Thời gian ≈ 0.041738700 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test04: 1.00
+Thời gian ≈ 0.041528600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test05: 1.00
+Thời gian ≈ 0.041219700 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test06: 1.00
+Thời gian ≈ 0.041083200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test07: 1.00
+Thời gian ≈ 0.042440000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test08: 1.00
+Thời gian ≈ 0.039877300 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test09: 0.00
+Thời gian ≈ 0.041043600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test10: 0.00
+Thời gian ≈ 0.040649700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test11: 0.00
+Thời gian ≈ 0.055142900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test12: 0.00
+Thời gian ≈ 0.039845700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test13: 0.00
+Thời gian ≈ 0.043700900 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test14: 0.00
+Thời gian ≈ 0.040436100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test15: 0.00
+Thời gian ≈ 0.040581200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test16: 1.00
+Thời gian ≈ 0.040721800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test17: 1.00
+Thời gian ≈ 0.054350500 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test18: 1.00
+Thời gian ≈ 0.089323600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test19: 0.00
+Thời gian ≈ 0.048988300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test20: 0.00
+Thời gian ≈ 0.059858100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test21: 0.00
+Thời gian ≈ 0.047737800 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test22: 1.00
+Thời gian ≈ 0.058011000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test23: 1.00
+Thời gian ≈ 0.071111000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test24: 1.00
+Thời gian ≈ 0.090972600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test25: 0.00
+Thời gian ≈ 0.158621600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test26: 0.00
+Thời gian ≈ 0.040040600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test27: 1.00
+Thời gian ≈ 0.039783000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test28: 1.00
+Thời gian ≈ 0.086409900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test29: 1.00
+Thời gian ≈ 0.040099600 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test30: 1.00
+Thời gian ≈ 0.040754200 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test31: 1.00
+Thời gian ≈ 0.039896800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test32: 1.00
+Thời gian ≈ 0.042881000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test33: 1.00
+Thời gian ≈ 0.040353000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test34: 1.00
+Thời gian ≈ 0.042241000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test35: 1.00
+Thời gian ≈ 0.039779000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test36: 0.00
+Thời gian ≈ 0.042664100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test37: 0.00
+Thời gian ≈ 0.052999300 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test38: 0.00
+Thời gian ≈ 0.044589400 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test39: 0.00
+Thời gian ≈ 0.041914100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test40: 0.00
+Thời gian ≈ 0.040646500 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test41: 0.00
+Thời gian ≈ 0.069535000 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test42: 0.00
+Thời gian ≈ 0.120222600 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test43: 1.00
+Thời gian ≈ 0.044727800 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test44: 1.00
+Thời gian ≈ 0.054183000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test45: 0.00
+Thời gian ≈ 0.057670100 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test46: 1.00
+Thời gian ≈ 0.048308900 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test47: 1.00
+Thời gian ≈ 0.050258000 giây
+Kết quả khớp đáp án!
+cbl_khoi‣rect‣Test48: 0.00
+Thời gian ≈ 0.073492200 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test49: 0.00
+Thời gian ≈ 0.100753700 giây
+Kết quả KHÁC đáp án!
+cbl_khoi‣rect‣Test50: 1.00
+Thời gian ≈ 0.087134600 giây
+Kết quả khớp đáp án!

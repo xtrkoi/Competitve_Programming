@@ -1,0 +1,131 @@
+ ﻿cbl_khoi‣saw: 29.00
+saw.cpp
+"C:\Program Files (x86)\Themis\gcc\bin\g++.exe" -std=c++14 "saw.cpp" -pipe -O2 -s -static -lm -x c++ -o"saw.exe" -Wl,--stack,66060288|@WorkDir=D:\Thi_Tin_Hoc\SERVER\www\contests\nop_bai\ThemisWorkSpace\WaitRoom27104\
+Dịch thành công.
+
+cbl_khoi‣saw‣test01: 1.00
+Thời gian ≈ 0.042884300 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test02: 1.00
+Thời gian ≈ 0.041400200 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test03: 1.00
+Thời gian ≈ 0.041508900 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test04: 1.00
+Thời gian ≈ 0.045305700 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test05: 1.00
+Thời gian ≈ 0.041066000 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test06: 1.00
+Thời gian ≈ 0.044167100 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test07: 1.00
+Thời gian ≈ 0.045604300 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test08: 1.00
+Thời gian ≈ 0.046589400 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test09: 1.00
+Thời gian ≈ 0.042107800 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test10: 1.00
+Thời gian ≈ 0.041757500 giây
+@KSH@ AC. Diff*1e6=0.2857142931
+cbl_khoi‣saw‣test11: 1.00
+Thời gian ≈ 0.041107400 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test12: 1.00
+Thời gian ≈ 0.044218900 giây
+@KSH@ AC. Diff*1e6=0.2857142860
+cbl_khoi‣saw‣test13: 1.00
+Thời gian ≈ 0.041831100 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test14: 1.00
+Thời gian ≈ 0.045413400 giây
+@KSH@ AC. Diff*1e6=0.2727272772
+cbl_khoi‣saw‣test15: 1.00
+Thời gian ≈ 0.044984000 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test16: 1.00
+Thời gian ≈ 0.043761200 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test17: 1.00
+Thời gian ≈ 0.043909800 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test18: 1.00
+Thời gian ≈ 0.045147300 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test19: 1.00
+Thời gian ≈ 0.044115200 giây
+@KSH@ AC. Diff*1e6=0.1615844965
+cbl_khoi‣saw‣test20: 1.00
+Thời gian ≈ 0.044503600 giây
+@KSH@ AC. Diff*1e6=0.0688705770
+cbl_khoi‣saw‣test21: 1.00
+Thời gian ≈ 0.044936100 giây
+@KSH@ AC. Diff*1e6=0.4392932057
+cbl_khoi‣saw‣test22: 1.00
+Thời gian ≈ 0.044153100 giây
+@KSH@ AC. Diff*1e6=0.0321305990
+cbl_khoi‣saw‣test23: 1.00
+Thời gian ≈ 0.045184100 giây
+@KSH@ AC. Diff*1e6=0.4244502783
+cbl_khoi‣saw‣test24: 1.00
+Thời gian ≈ 0.043907500 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test25: 1.00
+Thời gian ≈ 0.048333100 giây
+@KSH@ AC. Diff*1e6=0.1158477962
+cbl_khoi‣saw‣test26: 1.00
+Thời gian ≈ 0.044652100 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test27: 1.00
+Thời gian ≈ 0.044967200 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test28: 1.00
+Thời gian ≈ 0.045962700 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test29: 0.00
+Thời gian ≈ 0.078967900 giây
+WA. Ans=10000000000000000.000000, Out=51104318527902.617188, Diff=9948895681472098.000000
+cbl_khoi‣saw‣test30: 0.00
+Thời gian ≈ 0.082582000 giây
+WA. Ans=20609473600000000.000000, Out=970368555617.663818, Diff=20608503231444384.000000
+cbl_khoi‣saw‣test31: 0.00
+Thời gian ≈ 0.079168100 giây
+WA. Ans=12613536100000000.000000, Out=453702595295.646606, Diff=12613082397404704.000000
+cbl_khoi‣saw‣test32: 1.00
+Thời gian ≈ 0.074502200 giây
+@KSH@ AC. Diff*1e6=0.0000000000
+cbl_khoi‣saw‣test33: 0.00
+Thời gian ≈ 0.080608900 giây
+WA. Ans=83336237056844.000000, Out=7382257.272322, Diff=83336229674586.734375
+cbl_khoi‣saw‣test34: 0.00
+Thời gian ≈ 0.078598200 giây
+WA. Ans=38161496687893.445312, Out=1226781.576495, Diff=38161495461111.867188
+cbl_khoi‣saw‣test35: 0.00
+Thời gian ≈ 0.079843800 giây
+WA. Ans=732081209668353408.000000, Out=114272276113.133255, Diff=732081095396077312.000000
+cbl_khoi‣saw‣test36: 0.00
+Thời gian ≈ 0.078912600 giây
+WA. Ans=82220433718544128.000000, Out=55.961792, Diff=82220433718544080.000000
+cbl_khoi‣saw‣test37: 0.00
+Thời gian ≈ 0.080143100 giây
+WA. Ans=291909883256975936.000000, Out=617933522981008.750000, Diff=291291949733994944.000000
+cbl_khoi‣saw‣test38: 0.00
+Thời gian ≈ 0.078302200 giây
+WA. Ans=2989283732007968.000000, Out=2446753907183330.000000, Diff=542529824824638.000000
+cbl_khoi‣saw‣test39: 0.00
+Thời gian ≈ 0.078412300 giây
+WA. Ans=2990084696649967.000000, Out=857066999020863.125000, Diff=2133017697629104.000000
+cbl_khoi‣saw‣test40: 0.00
+Thời gian ≈ 0.075578600 giây
+WA. Ans=797490006152.114746, Out=3637049470.670905, Diff=793852956681.443848
+cbl_khoi‣saw‣test41: 0.00
+Thời gian ≈ 0.072191800 giây
+WA. Ans=1036022522243.289795, Out=3871062581.085567, Diff=1032151459662.204224
+cbl_khoi‣saw‣test42: 0.00
+Thời gian ≈ 0.071107300 giây
+WA. Ans=4512310002.000000, Out=2256250000.000000, Diff=2256060002.000000

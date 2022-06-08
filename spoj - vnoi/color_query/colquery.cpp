@@ -12,8 +12,8 @@ typedef vector<int> vi;
 
 const int maxn = 1e5 + 5;
 int n, q;
-vi color(maxn), tag(maxn), vol(maxn);
-vector<vi> color_set(maxn);
+vi color(maxn), tag(maxn), rank(maxn, 1);
+multiset<int> s[maxn];
 
 void input()
 {
@@ -23,7 +23,7 @@ void input()
     {
         cin >> col;
         color[i] = col;
-        // color_set[col].pb(i);
+        s[i].insert(col);
     }
 }
 
@@ -43,34 +43,27 @@ void unite(int a, int b)
 {
     a = find(a);
     b = find(b);
-    if (vol[a] > vol[b])
+    if (rank[a] > rank[b])
         swap(a, b);
     tag[b] = a;
-    vol[a] += vol[b];
-    for (int i : color_set[b])
-        color_set[a].pb(i);
+    rank[a] += rank[b];
+    s[a].insert(s[b].begin(), s[b].end());
 }
 
 void run()
 {
-    int s, u, v;
-    cin >> s >> u >> v;
-    if (s == 1)
+    int q, u, v, c;
+    cin >> q;
+    if (q == 1)
     {
+        cin >> u >> v;
         if (!same(u, v))
             unite(u, v);
     }
-    else if (s == 2)
+    else if (q == 2)
     {
-        int cnt = 0;
-        /* if (!color_set[v].empty())
-            for (int i : color_set[v])
-                if (same(u, i))
-                    cnt++; */
-        for (int i : color_set[find(u)])
-            if (color[i] == v)
-                cnt++;
-        cout << cnt << "\n";
+        cin >> u >> c;
+        cout << s[find(u)].count(c) << "\n";
     }
 }
 
@@ -84,11 +77,7 @@ int main()
     cin.tie(NULL);
     input();
     for (int i = 1; i <= n; i++)
-    {
         tag[i] = i;
-        vol[i] = 1;
-        color_set[i].pb(i);
-    }
     while (q--)
         run();
     return 0;
